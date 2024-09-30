@@ -5,7 +5,7 @@ Este repositorio contiene soluciones a una serie de retos de programación resue
 
 ## Archivos
 
-El repositorio contiene un carpeta que contiene:
+El repositorio contiene un carpeta que incluye:
 
 * TallerClasicToQuantum.ipynb: Este es el entorno Jupyter donde estan las soluciones a los ejercicios propuestos.
 
